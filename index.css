@@ -316,8 +316,9 @@ p{
     font-size: 30px;
     font-family: cursive;
     position: absolute;
-    left: 50%;
-    bottom: -6%;    
+    left: 92%;
+    bottom: -1%;
+  
 }
 @keyframes spin {
     from {
